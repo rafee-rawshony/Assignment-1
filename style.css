@@ -1,0 +1,31 @@
+.header{
+    background: rgba(229, 84, 115, 0.10);
+    
+}
+h1{
+    
+    color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.ptag{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+button{
+    border-radius: 8px;
+    background: #E55473;
+    color: white;
+    display: inline-flex;
+    border: none;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+}
